@@ -1,0 +1,13 @@
+<section id="readme">
+  <h2>🌍 De Jinto Outreach Website – Overview</h2>
+  <p><strong>Purpose:</strong> This site empowers African learners through tech education, digital literacy, and scholarship access. It hosts printable guides, dashboards, and multilingual resources for low-bandwidth communities.</p>
+  <ul>
+    <li>🎓 <strong>Scholarship Dashboard</strong>: Fully funded global opportunities</li>
+    <li>📊 <strong>Impact Dashboards</strong>: Python, C#, and C++ visualizations</li>
+    <li>🖨️ <strong>Printable Outreach Kit</strong>: Cover pages, feedback forms</li>
+    <li>🏛️ <strong>Governance Archive</strong>: Certified board resolutions</li>
+    <li>🌐 <strong>Multilingual Expansion</strong>: Localized guides in progress</li>
+  </ul>
+  <p><strong>Contribute:</strong> Translate guides, submit scholarship leads, or share feedback.</p>
+  <p><strong>License:</strong> MIT License. Commercial use requires permission.</p>
+</section>
